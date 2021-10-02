@@ -1,8 +1,11 @@
-# Magnus | Adaptive cards - Login system
+# Magnus | Adaptive cards - Login system | vRP framework
 
 
+This is a login system for FiveM - This only works for vRP.
 
+How to setup:
+Download both folders, and drag and drop the "magnus_adaptive" folder into your resources folder (Eventually translate).
 
-YOU NEED TO INSTALL MODULES (the bot) YOURSELF. You need to install "mysql" and "discord.js".
+Download and install "node.js", and install "discord.js" and "mysql" as modules in the bots folder ("magnusadaptive"). https://www.youtube.com/watch?v=rL2jA4rKF7M (Video of how to install the modules)
 
-You also need node.js before this would work
+Modify the config.json file
